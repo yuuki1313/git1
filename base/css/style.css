@@ -1,1 +1,29 @@
 ﻿@charset "UTF-8";
+.wrapper {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.wrapper #header {
+    height: 100px;
+    margin-bottom: 50px;
+    background-color: #ffc;
+}
+
+.wrapper #main {
+    width: 620px;
+    height: 500px;
+    margin-bottom: 50px;
+    background-color: #ccc;
+}
+
+.wrapper #sub {
+    width: 300px;
+    height: 500px;
+    background-color: #ffc;
+}
+
+.wrapper #footer {
+    height: 100px;
+    background-color: #ccc;
+}
