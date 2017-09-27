@@ -30,3 +30,7 @@
     clear: both;
     background-color: #ccc;
 }
+
+#about #main {
+    width: 940px;
+}
